@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Ars Almal",
+        "color": "White",
+        "card_type": "SIGNI"
+    },
+    {
+        "id": 2,
+        "name": "Himawari Honma",
+        "color": "White",
+        "card_type": "SIGNI"
+    },
+    {
+        "id": 3,
+        "name": "Lulu Suzuhara",
+        "color": "Black",
+        "card_type": "SIGNI"
+    },
+    {
+        "id": 4,
+        "name": "Nui Sociere",
+        "color": "Black",
+        "card_type": "SIGNI"
+    }
+]
